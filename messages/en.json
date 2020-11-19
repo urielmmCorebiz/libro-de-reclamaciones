@@ -1,0 +1,6 @@
+{
+  "store/sandbox.helloworld": "Hello, World!",
+  "store/sandbox.text": "Text",
+  "store/sandbox.image": "Image",
+  "store/sandbox.date": "Date"
+}

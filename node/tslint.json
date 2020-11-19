@@ -1,0 +1,6 @@
+{
+	"extends": "tslint-config-vtex",
+	"rules": {
+		"semicolon": [true, "always"]
+	}
+}
