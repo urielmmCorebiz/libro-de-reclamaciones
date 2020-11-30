@@ -8,6 +8,7 @@ import TextField from "../../TextField";
 import useInput from "../../hooks/useInput";
 
 const STORES = [
+  "TIENDA EN LÍNEA",
   "SALAVERRY",
   "PLAZA LIMA SUR",
   "MINKA",
@@ -25,7 +26,6 @@ const STORES = [
   "MEGAPLAZA",
   "MALL AVENTURA AREQUIPA",
   "REAL PLAZA AREQUIPA",
-  "TIENDA EN LÍNEA",
 ];
 
 const PERU_ADDRESSES = [
