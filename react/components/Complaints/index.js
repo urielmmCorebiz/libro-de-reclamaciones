@@ -3369,7 +3369,7 @@ export default function Complaints() {
                           onChange={typeDocumentParent}
                         >
                           <option value="">
-                            Selcciona un tipo de documento
+                            Selecciona un tipo de documento
                           </option>
                           <option value="DNI">DNI</option>
                           <option value="Carne de extranjeria">
@@ -3684,7 +3684,7 @@ export default function Complaints() {
           </p>
           <p>
             Los datos personales que usted proporciona en el presente documento
-            (que podrian contener datos sensibles) serán utilizados y/o tratados
+            (que podrían contener datos sensibles) serán utilizados y/o tratados
             por Miniso, estricta y únicamente con la finalidad de realizar las
             actividades conducentes a atender su reclamo.
           </p>
@@ -3705,7 +3705,7 @@ export default function Complaints() {
             por escrito en cualquiera de las oficinas de Miniso.
           </p>
           <p>
-            Con la suscripción del presente documento EL CLIENTE resibe copia
+            Con la suscripción del presente documento EL CLIENTE recibe copia
             del mismo y declara haber sido debidamente informado sobre el
             procedimiento, plazo de atención y medio de respuesta de
             requerimientos de Miniso. De conformidad y en cumplimiento del D.S.
@@ -3718,12 +3718,12 @@ export default function Complaints() {
             Soles(S/)
           </p>
           <p>
-            Los datos condignados en el presente documento ha sido
+            Los datos condignados en el presente documento han sido
             proporcionados por el cliente, por lo tanto son veraces y de total
             conformidad del usuario.
           </p>
           <p>
-            LA formulación del reclamo no impide acudir a otras vías de solución
+            La formulación del reclamo no impide acudir a otras vías de solución
             de controversias ni es requisito previo para interponer una denuncia
             ante el INDECOPI.
           </p>
