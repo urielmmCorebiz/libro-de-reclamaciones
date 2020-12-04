@@ -21,7 +21,7 @@ const STORES = [
   "SAN MIGUEL",
   "PURUCHUCO",
   "SANTA ANITA",
-  "PLAZA DE SOL",
+  "PLAZA DE SOL - ICA",
   "RIVERA NAVARRETE",
   "MEGAPLAZA",
   "MALL AVENTURA AREQUIPA",
@@ -3658,8 +3658,8 @@ export default function Complaints() {
           </div>
         )) || (
           <div className="thanksMessage">
-            <h2>Gracias por enviar tus datos</h2>
-            <p>A la brevedad uno de nuestros agentes se comunicara contigo</p>
+            <h2>Hemos recibido tu mensaje</h2>
+            <p>Estaremos respondiendo lo antes posible</p>
             <br />
             <br />
             <div className="wraperButtons">
