@@ -3227,8 +3227,7 @@ export default function Complaints() {
             Tiendas MINI BF PERU S.A.C. RUC. 20604180717
           </p>
           <p className="address">
-            Dirección: Av. Javier Prado Este No. 476, distrito de San Isidro,
-            provincia y departamento de Lima
+            Calle Coronel Andrés Reyes Nro. 338 (Piso 2 Oficina 120), distrito de San Isidro, provincia y departamento de Lima, Perú.
           </p>
           <p className="thanks">Gracias por su interés</p>
         </div>
@@ -3675,7 +3674,7 @@ export default function Complaints() {
         <div className="disclaimer">
           <p>
             <b>RECLAMO:</b> Disconformidad relacionada a los productos o
-            servicios
+            servicios.
           </p>
           <p>
             <b>QUEJA:</b> Disconformidad no relacionada a los productos o
@@ -3715,7 +3714,7 @@ export default function Complaints() {
           </p>
           <p>
             El tipo de moneda expresado en el campo "Monto Reclamado" es en
-            Soles(S/)
+            Soles(S/).
           </p>
           <p>
             Los datos condignados en el presente documento han sido

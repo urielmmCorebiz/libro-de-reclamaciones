@@ -1,7 +1,7 @@
 {
   "vendor": "minisope",
   "name": "miniso-complaints-book",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "builders": {
     "messages": "1.x",
     "assets": "0.x",

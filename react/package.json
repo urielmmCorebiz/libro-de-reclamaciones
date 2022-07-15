@@ -2,6 +2,5 @@
   "name": "react",
   "version": "1.0.0",
   "description": "react app",
-  "main": "Complaints.js",
-  "dependencies": {}
+  "main": "Complaints.js"
 }
