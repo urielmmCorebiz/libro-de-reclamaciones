@@ -3243,7 +3243,7 @@ export default function Complaints() {
                   <h3>Datos de la persona que presenta el reclamo</h3>
                   <div className="wrapControl">
                     <select className="dropDownList" onChange={typeDocument}>
-                      <option value="">Selcciona un tipo de documento</option>
+                      <option value="">Selcciona el tipo de documento</option>
                       <option value="DNI">DNI</option>
                       <option value="Carne de extranjeria">
                         Carné de extranjería
